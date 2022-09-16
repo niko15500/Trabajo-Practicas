@@ -1,0 +1,15 @@
+MATERIA: Practicas Profesionalizantes
+PROFE: Matias Fernandez
+ALUMNO: Nicolas Luciuk
+TRABAJO: Pagina Web
+
+En esta aplicacion web, se consolidan por 4 paginas entrelasadas cada una.
+
+1) INICIO
+2) NOSOTROS
+3) CARRITO
+4) CONTACTO
+
+Se utilizo para la creacion de la misma: css, js y html
+
+Responsive: La pagina soporta resoluciones de 1000px hasta 1920px (desde laptop a pc de escritorio)

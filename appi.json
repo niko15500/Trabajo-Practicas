@@ -1,0 +1,21 @@
+[
+    {
+        "precio": 15000,
+        "id": 1,
+        "title": "SkateBoard RAIDER PLUS",
+        "thumbnailUrl": "/imagenes/Sin-título-2.jpg"
+    },
+    {
+        "precio": 15000,
+        "id": 2,
+        "title": "SkateBoard RAIDER PLUS",
+        "thumbnailUrl": "/imagenes/Sin-título-2.jpg"
+    },
+    {
+        "precio": 11000,
+        "id": 3,
+        "title": "SkateBoard RAIDER PLUS",
+        "thumbnailUrl": "/imagenes/Sin-título-2.jpg"
+    }
+
+]
